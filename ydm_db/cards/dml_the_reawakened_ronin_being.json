@@ -1,0 +1,21 @@
+{
+  "id": 109182188,
+  "name": "DML, The Reawakened Ronin Being",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 level 6 beast monsters. When this Monster is summoned, look through your deck for a Beast-type monster of any level and special summon it.  Once per turn, search for a Beast-Type Monster level 5 or below, and summon it on the field. Every turn on the standby phase draw an extra card. No card can negate the effect of this card. As well as Beast Type Monsters summoned by this card cannot be targeted by card effects, nor be destroyed by battle.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/1103715394142875791/1104157457871278220/DML_The_Reawakened_Ronin_Being_1.jpeg"
+  ],
+  "type": "Beast",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Rat",
+  "monster_type": "XYZ",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 690,
+  "level": 6,
+  "is_tuner": false
+}
